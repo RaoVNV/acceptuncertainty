@@ -47,8 +47,8 @@ Future work will explore the assessment of students' TU, students' beliefs and v
 
 # Presentations
 
-Hunt, M., Hemani, s., & Rao, V.N.V. (2025, April). *Is tolerance of uncertainty related to statistics understanding?* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Hunt, M., Hemani, s., & Rao, V.N.V. (2025, April). [*Is tolerance of uncertainty related to statistics understanding?*](https://github.com/RaoVNV/acceptuncertainty/blob/main/URS%202025%20Hunt%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
 
-Hemani, S., Hunt, M., & Rao, V.N.V. (2025, April). *Accepting uncertainty depends on the statistics curriculum* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Hemani, S., Hunt, M., & Rao, V.N.V. (2025, April). [*Accepting uncertainty depends on the statistics curriculum*](https://github.com/RaoVNV/acceptuncertainty/blob/main/URS%202025%20Hemani%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
 
-Sriramlatha, D., Vemuri, A., & Rao, V.N.V. (2024, April). *Exploring the influence of personality on learning statistics* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Sriramlatha, D., Vemuri, A., & Rao, V.N.V. (2024, April). [*Exploring the influence of personality on learning statistics*](https://github.com/RaoVNV/acceptuncertainty/blob/main/URS%202024%20Sriramlatha%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
