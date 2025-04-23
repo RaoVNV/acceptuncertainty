@@ -1,0 +1,54 @@
+---
+title: "Accepting Uncertainty: Project Page"
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
+```
+
+# Project Contributors
+
+In alphabetical order: 
+
+- Aparajita Vemuri
+- Justin Baker
+- Madeline Hunt
+- Priyadharshini Sriramlatha
+- Samin Hemani
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+
+# Introduction to the Project
+
+In 2019, Wasserstein et al. issued a statement decrying the categorization of *p*-values into so-called *statistically significant* and not statistically significant categories^[Wasserstein, R. L., Schirm, A. L., & Lazar, N. A. (2019). Moving to a World Beyond “p< 0.05”. American Statistician, 73(sup1), 1-19.]. They go further, and envision a world beyond '*p*<.05', and urge researchers to stop using the term *statistically significant* or any other categorization of *p*-values. 
+
+They encourage us to think in terms of "ATOM": 
+
+- **A**ccept Uncertainty
+- Be **T**houghtful
+- Be **O**pen
+- Be **M**odest
+
+However, accepting uncertainty may not feel so comfortable for some people. Personality psychologists describe a trait known as Tolerance of Uncertainty (TU). TU is a domain-stable trait, which reflects an individual's comfort with inherently ambiguous situations.  
+
+If accepting uncertainty is an integral part to doing and learning statistics, and if some people are generally intolerant of uncertainty, does that mean that some people, based on their personality characteristics, will struggle to learn and do statistics? That a personality trait should be related to a students' learning is antithesis to our values as educators. 
+
+In this project, we explore this question, and examine if and how TU is related to students' learning of statistics. 
+
+
+# Current Status
+
+Thus far, we have established that the relationship between students' statistics TU and their understanding varies by type of course (probability-based versus making sense of numbers), and that students' statistics TU is an antecedent of students' statistics anxiety and attitudes towards statistics having both a direct and indirect effect on students' understanding. 
+
+Future work will explore the assessment of students' TU, students' beliefs and values about statistics and uncertainty, and what impact interventions may have on students' TU and other psychosocial factors associated with students' learning. 
+
+- Dr. Rao is currently recruiting 1-2 new undergraduate students to work on this project in the Fall 2025 term. Please contact him if you are interested.
+
+# Presentations
+
+Hunt, M., Hemani, s., & Rao, V.N.V. (2025, April). *Is tolerance of uncertainty related to statistics understanding?* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+
+Hemani, S., Hunt, M., & Rao, V.N.V. (2025, April). *Accepting uncertainty depends on the statistics curriculum* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+
+Sriramlatha, D., Vemuri, A., & Rao, V.N.V. (2024, April). *Exploring the influence of personality on learning statistics* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
