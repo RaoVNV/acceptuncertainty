@@ -47,7 +47,9 @@ Future work will explore the assessment of students' TU, students' beliefs and v
 
 # Presentations
 
-Hunt, M., Hemani, s., & Rao, V.N.V. (2025, April). [*Is tolerance of uncertainty related to statistics understanding?*](https://github.com/RaoVNV/acceptuncertainty/blob/main/URS%202025%20Hunt%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Hunt, M., Hemani, S., & Rao, V.N.V. (2025, May). *Is tolerance of uncertainty related to statistics understanding?* [Oral Presentation]. [University of Illinois Urbana-Champaign Master and Undergraduate Research Experience in Statistics (MURES) Symposium](https://calendars.illinois.edu/detail/1439/33507287), Urbana, IL, USA. 
+
+Hunt, M., Hemani, S., & Rao, V.N.V. (2025, April). [*Is tolerance of uncertainty related to statistics understanding?*](https://github.com/RaoVNV/acceptuncertainty/blob/main/URS%202025%20Hunt%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
 
 Hemani, S., Hunt, M., & Rao, V.N.V. (2025, April). [*Accepting uncertainty depends on the statistics curriculum*](https://github.com/RaoVNV/acceptuncertainty/blob/main/URS%202025%20Hemani%20et%20al.pdf) [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
 
