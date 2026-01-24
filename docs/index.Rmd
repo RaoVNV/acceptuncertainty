@@ -12,12 +12,17 @@ library(rmdformats)
 
 In alphabetical order: 
 
-- Aparajita Vemuri
 - Justin Baker
-- Madeline Hunt
-- Priyadharshini Sriramlatha
-- Samin Hemani
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+
+Undergraduate RAs:
+
+- Priyadharshini Sriramlatha (Spring 2024)
+- Aparajita Vemuri (Spring 2024)
+- Madeline Hunt (Fall 2024 - Spring 2025)
+- Samin Hemani (Fall 2024 - Fall 2025)
+- Preetha Manjunath (Fall 2025)
+- Samhitha Periyanayaham (Fall 2025 - Spring 2026)
 
 # Introduction to the Project
 
@@ -43,9 +48,12 @@ Thus far, we have established that the relationship between students' statistics
 
 Future work will explore the assessment of students' TU, students' beliefs and values about statistics and uncertainty, and what impact interventions may have on students' TU and other psychosocial factors associated with students' learning. 
 
-- Dr. Rao is currently recruiting 1-2 new undergraduate students to work on this project in the Fall 2025 term. Please contact him if you are interested.
+- Dr. Rao is currently recruiting 1-2 new undergraduate students to work on this project in the Fall 2026 term. Please contact him if you are interested.
+
 
 # Presentations
+
+Periyanayaham, S., Hunt, M., Manjunath, P., & Rao, V.N.V. (2025, Dec). *Exploring statistics-situated tolerance of uncertainty and ambiguity* [Oral Presentation]. [University of Illinois Urbana-Champaign Master and Undergraduate Research Experience in Statistics (MURES) Symposium](https://calendars.illinois.edu/detail/8177?eventId=33539375), Urbana, IL, USA. 
 
 Hunt, M., Hemani, S., & Rao, V.N.V. (2025, May). *Is tolerance of uncertainty related to statistics understanding?* [Oral Presentation]. [University of Illinois Urbana-Champaign Master and Undergraduate Research Experience in Statistics (MURES) Symposium](https://calendars.illinois.edu/detail/1439/33507287), Urbana, IL, USA. 
 
